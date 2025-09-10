@@ -1,0 +1,1 @@
+This repository contains three Jupyter notebooks from my Udemy Data Science course, showcasing the skills I have developed—from Simple Linear Regression to Multiple Linear Regression with Dummy Variables.
