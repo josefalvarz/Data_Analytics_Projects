@@ -7,7 +7,8 @@ The objective is to model and predict house prices based on property characteris
 - Construction year  
 - Presence of a sea view  
 
-All steps are documented with in notebook comments to facilitate comprehension.
+All steps are documented within the notebook comments to facilitate comprehension.
+
 
 
 
