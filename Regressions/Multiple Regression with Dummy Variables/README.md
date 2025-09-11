@@ -1,5 +1,12 @@
-This notebook demonstrates the application of Multiple Linear Regression (MLR) with dummy variables on a real estate dataset. 
-The goal is to model and predict house prices using property characteristics such as size, construction year, and sea view.
+Multiple Linear Regression with Dummy Variables  Real Estate Dataset
 
-Comments are in the Notebook for better comprehension
+This notebook demonstrates the use of Multiple Linear Regression with dummy variables on a real estate dataset.  
+The objective is to model and predict house prices based on property characteristics such as:
+
+- Size  
+- Construction year  
+- Presence of a sea view  
+
+All steps are thoroughly documented with in notebook comments to ensure clarity and facilitate comprehension.
+
 
