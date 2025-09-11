@@ -1,3 +1,7 @@
-This notebook applies Multiple Linear Regression (MLR) to a real estate dataset in order to analyze how property characteristics such as size and construction year influence housing prices.
+Multiple Linear Regression – Real Estate Dataset
 
-Comments are in the notebook for better comprehension
+This notebook applies Multiple Linear Regression to a real estate dataset in order to analyze how property characteristics—such as **size** and construction year influence housing prices.  
+
+All steps are clearly explained with in notebook comments to improve comprehension.  
+
+
